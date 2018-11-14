@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-int a ,x , b = 2, count, sum =0 , min, max,subtract, multiply;
+int a, x, b = 2, count, sum =0 , min, max,subtract, multiply;
 float divide, average;
 
 printf("Please enter random number\n");
