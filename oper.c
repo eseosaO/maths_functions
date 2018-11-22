@@ -41,11 +41,20 @@ divide = (float)a / b;
  
 printf("Sum of the numbers = %d\n", sum);
 printf("Average of the numbers = %.2f\n", average);
+<<<<<<< HEAD
 printf("Difference btw a and b = %d\n", subtract);
 printf("Multiplication of a and b = %d\n", multiply);
 printf("Division of a by b = %.2f\n", divide);
 printf("Remainder value between a and b is %d\n", mod(a,b));
 printf("Highest value amongst entered values is %d\n", high);
 printf("Lowest value amongst entered values is %d\n", low);
+=======
+printf("Difference btw random a and b = %d\n", subtract);
+printf("Multiplication of random a and b = %d\n", multiply);
+printf("Division of random a by b = %.2f\n", divide);
+printf("Reminder value between random value a and b is %d\n", mod(a,b));
+printf("highest value amongst entered values is %d\n", high);
+printf("lowest value amongst entered values is %d\n", low);
+>>>>>>> 43173e35e9b66b4e501f38485be008287267619f
 return 0;
 }
